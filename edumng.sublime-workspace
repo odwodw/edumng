@@ -1,0 +1,983 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"edit",
+				"editRow"
+			],
+			[
+				"stu",
+				"stu_table"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"def",
+				"DefaultFunc"
+			],
+			[
+				"rem",
+				"removeAttr"
+			],
+			[
+				"ch",
+				"chosen"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"de",
+				"details-control"
+			],
+			[
+				"coun",
+				"CounselorController"
+			],
+			[
+				"fnd",
+				"_fnDraw"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"d",
+				"dialogfunc"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"dat",
+				"datatable"
+			],
+			[
+				"find",
+				"findAll"
+			],
+			[
+				"block",
+				"blockUI"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"is",
+				"isLogged"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-indent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/partial/layout.swig",
+			"settings":
+			{
+				"buffer_size": 460,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/partial/scripts.swig",
+			"settings":
+			{
+				"buffer_size": 246,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/default/index.js",
+			"settings":
+			{
+				"buffer_size": 9609,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/default/DefaultFunc.js",
+			"settings":
+			{
+				"buffer_size": 8992,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/index.swig",
+			"settings":
+			{
+				"buffer_size": 13204,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/default/counselor.js",
+			"settings":
+			{
+				"buffer_size": 5277,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/default/actstudy.js",
+			"settings":
+			{
+				"buffer_size": 9175,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/func/counselor.swig",
+			"settings":
+			{
+				"buffer_size": 7791,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/func/actstudy.swig",
+			"settings":
+			{
+				"buffer_size": 7404,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/default/pubapi.js",
+			"settings":
+			{
+				"buffer_size": 2276,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Close All"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 107.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/develop/edumng/assets/js/default/HandleStu.js",
+		"/D/develop/edumng/assets/bower_components/media/js/app.js",
+		"/D/develop/edumng/assets/bower_components/media/js/form-validation.js",
+		"/D/develop/edumng/assets/js/common/app.js",
+		"/D/develop/edumng/views/partial/stylesheets.swig",
+		"/D/develop/edumng/api/models/Stu.js",
+		"/D/develop/edumng/api/controllers/StuController.js",
+		"/D/develop/edumng/assets/js/common/main.js",
+		"/D/develop/edumng/api/models/Counselor.js",
+		"/D/develop/edumng/api/controllers/CounselorController.js",
+		"/D/develop/edumng/config/routes.js",
+		"/D/develop/edumng/assets/js/default/dialogfunc.js",
+		"/D/develop/edumng/assets/bower_components/media/js/DT_bootstrap.js",
+		"/D/develop/edumng/api/controllers/ConfigController.js",
+		"/D/develop/edumng/views/partial/header.swig",
+		"/D/develop/edumng/config/locales/myconfig.json",
+		"/D/develop/edumng/assets/bower_components/media/js/bootstrap-rtl.min.js",
+		"/D/develop/edumng/assets/bower_components/media/js/jquery.dataTables.js",
+		"/D/develop/edumng/config/datatable.js",
+		"/D/develop/edumng/config/locales/grade.json",
+		"/D/develop/edumng/config/locales/race.json",
+		"/D/develop/edumng/api/controllers/ActivityController.js",
+		"/D/develop/edumng/views/partial/script_bootstrap.swig",
+		"/D/develop/edumng/assets/bower_components/media/js/bootstrap-datetimepicker.js",
+		"/D/360云盘/开发/metronic.bootstrap/media/css/font-awesome.min.css",
+		"/D/develop/edumng/assets/bower_components/media/css/style.css",
+		"/D/develop/edumng/assets/bower_components/media/css/chosen.css",
+		"/D/develop/edumng/api/controllers/ActionController.js",
+		"/D/develop/edumng/api/models/Activity.js",
+		"/D/develop/edumng/assets/styles/default/default.less",
+		"/D/develop/edumng/assets/bower_components/jQuery-dialogBox/js/jquery.dialogbox.js",
+		"/D/develop/edumng/assets/bower_components/media/js/dataTables.tableTools.js",
+		"/D/develop/edumng/views/counselor.swig",
+		"/D/develop/edumng/assets/js/default/student.js",
+		"/D/develop/edumng/assets/bower_components/media/js/dataTables.bootstrap.js",
+		"/D/develop/edumng/views/passport/layout.swig",
+		"/D/develop/edumng/assets/js/common/module.js",
+		"/D/360云盘/开发/metronic.bootstrap/form_component.html",
+		"/D/develop/edumng/api/controllers/AuthController.js",
+		"/D/360云盘/开发/metronic.bootstrap/media/js/table-editable.js",
+		"/D/develop/edumng/config/bootstrap.js",
+		"/D/develop/edumng/config/connections.js",
+		"/D/develop/edumng/assets/bower_components/jQuery-dialogBox/index.html",
+		"/D/rsa-server/app.js",
+		"/D/develop/edumng/assets/bower_components/media/js/dataTables.tableTools.min.js",
+		"/C/Users/yhm/Desktop/Woo的博客.xls",
+		"/D/360极速浏览器下载/DataTables-1.10.10/extensions/Buttons/js/dataTables.buttons.js",
+		"/C/Users/yhm/Desktop/Woo的博客.csv",
+		"/D/develop/edumng/assets/bower_components/media/js/index.js",
+		"/D/develop/edumng/assets/bower_components/tableExport/jquery.base64.js",
+		"/D/develop/edumng/assets/bower_components/tableExport/jspdf/libs/base64.js",
+		"/C/Users/yhm/AppData/Local/Temp/360zip$Temp/360$2/Readme.md",
+		"/D/360云盘/开发/metronic.bootstrap/media/js/table-advanced.js",
+		"/D/develop/edumng/assets/bower_components/media/image/css",
+		"/D/develop/edumng/.tmp/public/bower_components/jQuery-dialogBox/js/jquery.dialogbox.js",
+		"/D/develop/edumng/assets/bower_components/layer/layer.js",
+		"/D/develop/edumng/assets/bower_components/angular-sails/dist/angular-sails.js",
+		"/D/develop/edumng/views/passport/register.swig",
+		"/D/develop/edumng/assets/js/passport/login.js",
+		"/D/360云盘/书籍/nodejs+sails/1.html",
+		"/D/develop/edumng/assets/js/dependencies/angular-bootstrap.js",
+		"/D/develop/edumng/views/stu_info.swig",
+		"/D/develop/edumng/api/controllers/ProdController.js",
+		"/D/360云盘/开发/metronic.bootstrap/table_editable.html",
+		"/D/develop/edumng/config/views.js",
+		"/D/develop/edumng/assets/bower_components/media/js/wysihtml5-0.3.0.js",
+		"/D/develop/edumng/views/partial/scripts.swig",
+		"/D/develop/edumng/config/log.js",
+		"/D/develop/edumng/api/policies/isAuthenticated.js",
+		"/D/develop/edumng/assets/bower_components/media/js/jquery.blockui.min.js",
+		"/D/develop/edumng/assets/bower_components/media/js/table-editable.js",
+		"/D/360云盘/开发/metronic.bootstrap/media/js/wysihtml5-0.3.0.js",
+		"/D/360云盘/开发/metronic.bootstrap/media/js/index.js",
+		"/D/develop/edumng/assets/bower_components/media/js/ckeditor.js",
+		"/D/develop/edumng/assets/bower_components/media/css/font-awesome.css",
+		"/D/develop/edumng/assets/bower_components/semantic/examples/login.html",
+		"/D/develop/edumng/config/user.js",
+		"/D/develop/edumng/views/index.swig",
+		"/D/develop/edumng/assets/bower_components/media/css/style-responsive.css",
+		"/D/develop/edumng/views/passport/login.swig",
+		"/D/develop/edumng/assets/js/passport/PassportPanel.js",
+		"/D/develop/edumng/assets/js/default/DefaultPanel.js",
+		"/D/develop/edumng/assets/js/default/index.js",
+		"/D/develop/edumng/assets/bower_components/semantic/examples/sticky.html",
+		"/D/develop/edumng/assets/bower_components/semantic/dist/semantic.css",
+		"/D/360云盘/开发/metronic.bootstrap/media/css/font-awesome.css",
+		"/D/360云盘/开发/metronic.bootstrap/media/css/style.css",
+		"/D/develop/edumng/assets/styles/default/passport.css",
+		"/D/develop/edumng/assets/bower_components/semantic/examples/odw.html",
+		"/D/develop/edumng/views/partial/layout.swig",
+		"/D/develop/edumng/config/policies.js",
+		"/D/develop/edumng/config/passport.js",
+		"/D/develop/edumng/api/models/User.js",
+		"/D/develop/edumng/assets/bower_components/semantic/src/themes/default/globals/site.variables",
+		"/D/develop/edumng/assets/bower_components/semantic/RELEASE-NOTES.md",
+		"/D/develop/edumng/assets/bower_components/semantic/dist/components/input.css",
+		"/D/develop/edumng/.tmp/public/bower_components/semantic/dist/components/input.css",
+		"/D/develop/mysemantic/semantic/semantic.json.example",
+		"/D/develop/edumng/assets/bower_components/semantic/dist/semantic.min.css",
+		"/D/develop/edumng/assets/bower_components/semantic/src/themes/default/collections/form.variables",
+		"/D/develop/edumng/assets/bower_components/semantic/src/_site/globals/site.overrides",
+		"/D/develop/edumng/assets/bower_components/semantic/src/_site/globals/site.variables",
+		"/D/develop/edumng/assets/bower_components/semantic/src/themes/default/globals/site.overrides",
+		"/D/develop/edumng/.tmp/public/bower_components/semantic/src/_site/globals/site.overrides",
+		"/D/develop/edumng/assets/bower_components/semantic/src/_site/views/card.variables",
+		"/D/develop/edumng/api/policies/userNotCreated.js",
+		"/D/develop/edumng/api/policies/sessionAuth.js",
+		"/D/develop/edumng/api/controllers/UserController.js",
+		"/D/develop/edumng/api/policies/userCreated.js",
+		"/D/develop/edumng/.tmp/public/styles/importer.css",
+		"/D/develop/edumng/assets/styles/importer.less",
+		"/D/develop/edumng/.tmp/public/styles/default/default.less",
+		"/D/develop/edumng/tasks/config/less.js",
+		"/D/develop/edumng/.tmp/public/styles/importer.less",
+		"/D/360云盘/开发/bootstrap-3.2.0-dist/css/bootstrap.css",
+		"/D/develop/edumng/.tmp/public/styles/default/passport.css",
+		"/D/develop/edumng/assets/favicon.ico",
+		"/D/develop/edumng/app.js",
+		"/D/develop/edumng/config/http.js",
+		"/D/develop/edumng/.bowerrc",
+		"/D/develop/edumng/assets/js/passport/register.js",
+		"/D/develop/edumng/config/site.js",
+		"/D/develop/edumng/config/models.js",
+		"/D/develop/edumng/views/passpart/login.swig",
+		"/D/develop/edumng/views/passpart/layout.swig",
+		"/D/develop/edumng/views/passpart/register.swig",
+		"/D/develop/edumng/config/i18n.js",
+		"/D/develop/edumng/config/globals.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\js\\default",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\css",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components\\tableExport",
+			"D:\\develop\\edumng\\assets",
+			"D:\\develop\\edumng\\assets\\bower_components",
+			"D:\\develop\\edumng\\assets\\js",
+			"D:\\develop\\edumng\\assets\\bower_components",
+			"D:\\develop\\edumng",
+			"D:\\develop\\edumng\\views",
+			"D:\\develop\\edumng",
+			"D:\\develop\\edumng\\.tmp",
+			"D:\\develop\\edumng",
+			"D:\\develop\\edumng\\assets",
+			"D:\\develop\\edumng\\views",
+			"D:\\develop\\edumng\\assets",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\css",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\css",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\css",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\css",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\css",
+			"D:\\develop\\edumng\\assets\\bower_components\\media\\js",
+			"D:\\develop\\edumng\\assets\\bower_components\\media",
+			"D:\\develop\\edumng\\views",
+			"D:\\develop\\edumng\\assets",
+			"D:\\develop\\edumng\\assets\\bower_components\\semantic\\examples",
+			"D:\\develop\\edumng\\assets\\bower_components\\semantic\\src\\themes\\default",
+			"D:\\develop\\edumng\\assets\\bower_components\\semantic",
+			"D:\\develop\\edumng\\assets\\bower_components\\semantic\\src",
+			"D:\\develop\\edumng"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bVisible",
+			"hold-on-click",
+			"sample_columntoggler",
+			"hold",
+			"actstudy_columntoggler",
+			"counselor_columntoggler",
+			"stu_columntoggler",
+			"odw",
+			"stu",
+			"odw",
+			"stu",
+			"columndef",
+			"this",
+			"CDefaultFunc",
+			"this",
+			"dialog",
+			"help-block",
+			"formstu",
+			"show",
+			"dblclick",
+			"length",
+			"DEFAULT",
+			"this.Default",
+			"updated",
+			"grade",
+			"new",
+			"studentcode",
+			"first",
+			"finit",
+			"sPaginationType",
+			"fnInit",
+			"input-fa fa",
+			"icon",
+			"input-fa fa",
+			"icon",
+			"QQ",
+			"qq",
+			"QQ",
+			"chosen",
+			"selCSI",
+			"chosen-with-diselect",
+			"handleChoosenSelect",
+			"form2",
+			"chosen dropdown",
+			"No results match",
+			"No results",
+			"form2",
+			"chosen-with-diselect",
+			"chosen",
+			"counselor",
+			"counsel",
+			"_fnColumnOptions",
+			"className",
+			"tags",
+			"html",
+			"collection",
+			"defaultcontent",
+			"defaultContent",
+			"mdata",
+			"live",
+			"_fnFlashSetText",
+			"fnSetText",
+			"sExtends",
+			"_fnGetDataTablesData",
+			"fnGetTableData",
+			"mask",
+			"effect",
+			"hide",
+			"time",
+			"name",
+			"NAME",
+			"stu",
+			"reload",
+			"editRow",
+			"stu_save",
+			"counselor",
+			"actstudy",
+			"name",
+			"ActStudy",
+			"counselor",
+			"Activity",
+			"Counselor",
+			"stu",
+			"code",
+			"Stu",
+			"stuinfo",
+			"jQuery",
+			"dialog",
+			"dia",
+			"dialog",
+			"delete",
+			"_fnProcessingDisplay",
+			"settings.aanFeatures.r",
+			"_fnProcessingDisplay",
+			"processing",
+			"_fnPrintShowNodes",
+			"bind",
+			"_fnProcessingDisplay",
+			"bProcessing",
+			"process",
+			"esca",
+			"Processing",
+			"load",
+			"oTable",
+			"editRow",
+			"buttons",
+			"fnInit",
+			"stu_info",
+			"oSettings",
+			"aocoldef",
+			"search",
+			"DataTable().search",
+			"search",
+			"draw",
+			"sAjaxSource",
+			"ajax",
+			"tags",
+			"bootstrap",
+			"tableTools",
+			"fnComplete",
+			"fnCellRender",
+			"tr",
+			"fnCellRender",
+			"copy",
+			"sRowSelect",
+			"flashExport",
+			"collection",
+			"sAction"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sample_columntoggler",
+			"odw",
+			"e.currentTarget",
+			"pubapi",
+			"module",
+			"input-icon",
+			"fa fa",
+			"input-icon",
+			"fa fa",
+			"actstudy",
+			"counselor",
+			"actstudy",
+			"activity",
+			"id",
+			"Actstudy",
+			"actstudy",
+			"ActStudy",
+			"Activity",
+			"Action",
+			"counselor",
+			"name",
+			"Counselor",
+			"$",
+			"_keyStr",
+			"charCodeAt",
+			"stu_table",
+			"?}",
+			"{?",
+			"{? path.bower ?}",
+			"?}",
+			"{?",
+			"$('#stu_save [name=\"code\"]')",
+			"Stu",
+			"\"\"",
+			"",
+			"$",
+			"\"{{ path.bower }}/media",
+			"{{ path.bower }}/media",
+			"#810000",
+			"username",
+			"crypt",
+			"\\res\\img\\blank.gif",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/partial/layout.swig",
+					"settings":
+					{
+						"buffer_size": 460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								239
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-swig/Swig.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/partial/scripts.swig",
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-swig/Swig.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/js/default/index.js",
+					"settings":
+					{
+						"buffer_size": 9609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/js/default/DefaultFunc.js",
+					"settings":
+					{
+						"buffer_size": 8992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								987,
+								987
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1755.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/index.swig",
+					"settings":
+					{
+						"buffer_size": 13204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6879,
+								6879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-swig/Swig.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3023.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/js/default/counselor.js",
+					"settings":
+					{
+						"buffer_size": 5277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1441,
+								1445
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "assets/js/default/actstudy.js",
+					"settings":
+					{
+						"buffer_size": 9175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "views/func/counselor.swig",
+					"settings":
+					{
+						"buffer_size": 7791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6058,
+								6058
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-swig/Swig.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1223.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "views/func/actstudy.swig",
+					"settings":
+					{
+						"buffer_size": 7404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5749,
+								5749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime-swig/Swig.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2573.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "assets/js/default/pubapi.js",
+					"settings":
+					{
+						"buffer_size": 2276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2266,
+								2266
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}

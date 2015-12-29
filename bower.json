@@ -1,0 +1,25 @@
+{
+  "name": "edumng",
+  "description": "a Sails application",
+  "main": "app.js",
+  "authors": [
+    "anonymous node/sails user"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "semantic": "semantic-ui#~2.1.5",
+    "requirejs": "~2.1.20",
+    "backbone": "~1.2.3"
+  }
+}
