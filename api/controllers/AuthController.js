@@ -49,14 +49,14 @@ module.exports = {
         passport.authenticate('local', function(err, user, info) {
             if ((err) || (!user)) {
                 // 如果有误，返回错误
-                res.view('passport/logIn',{err:err});
+                res.view('passport/login',{err:err});
                 /*return res.send({
                     message: info.message,
                     user: user
                 });*/
             }else{
                 req.logIn(user, function(err) {
-                    if (err) { res.view('passport/logIn',{err:err}); }
+                    if (err) { res.view('passport/login',{err:err}); }
                     req.session.user={username:user.username,right:user.right};
                     sails.config.user.name = user.username;
                     sails.config.user.right = user.right;
