@@ -7,6 +7,7 @@
 var uuid = require('node-uuid');
 var pass = require('pass');
 module.exports = {
+  connection:"edunet",
   attributes: {
     // 编号
     id: {
