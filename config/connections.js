@@ -59,7 +59,7 @@ module.exports.connections = {
     host: 'localhost',
     user: 'root',
     password: 'root',
-    database: 'edu'
+    database: 'edunew'
   },
 
   /***************************************************************************
