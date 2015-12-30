@@ -29,6 +29,7 @@ module.exports = {
         User.create(user).exec(function createCB(err, created){
             if(err){
                // 如果有误，返回错误
+               sails.log.info(err);
                 res.view('passport/register',{err:err});
             }else{
                 // 否则，将新创建的用户登录

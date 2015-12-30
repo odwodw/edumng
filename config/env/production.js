@@ -19,7 +19,9 @@ module.exports = {
 
   models: {
     migrate: 'alter',
-    connection: 'edu'
+    connection: 'edunet',
+    autoCreatedAt: true,
+    autoUpdatedAt: true
   },
 
   /***************************************************************************
