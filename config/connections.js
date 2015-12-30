@@ -47,12 +47,19 @@ module.exports.connections = {
     password: 'YOUR_MYSQL_PASSWORD',
     database: 'YOUR_MYSQL_DB'
   },
-  edu: {
+  edunet: {
     adapter: 'sails-mysql',
     host: '173.194.241.167',
     user: 'depdvsmxmbw',
     password: '6nRcTfDNTA8m',
     database: 'depdvsmxmbw'
+  },
+  edu: {
+    adapter: 'sails-mysql',
+    host: 'localhost',
+    user: 'root',
+    password: 'root',
+    database: 'edu'
   },
 
   /***************************************************************************

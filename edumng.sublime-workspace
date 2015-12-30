@@ -158,7 +158,7 @@
 		{
 			"settings":
 			{
-				"buffer_size": 3346,
+				"buffer_size": 0,
 				"line_ending": "Windows",
 				"name": "Find Results"
 			}
@@ -177,6 +177,30 @@
 			{
 				"buffer_size": 1340,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/connections.js",
+			"settings":
+			{
+				"buffer_size": 5079,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/policies/userNotCreated.js",
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api/policies/userCreated.js",
+			"settings":
+			{
+				"buffer_size": 250,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -371,7 +395,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 90.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"D:\\develop\\edumng\\config",
@@ -642,74 +666,22 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"settings":
 					{
-						"buffer_size": 3346,
+						"buffer_size": 0,
 						"regions":
 						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										292,
-										299
-									],
-									[
-										752,
-										759
-									],
-									[
-										1043,
-										1050
-									],
-									[
-										1140,
-										1147
-									],
-									[
-										1470,
-										1477
-									],
-									[
-										1818,
-										1825
-									],
-									[
-										2188,
-										2195
-									],
-									[
-										2362,
-										2369
-									],
-									[
-										2796,
-										2803
-									],
-									[
-										3015,
-										3022
-									],
-									[
-										3225,
-										3232
-									]
-								],
-								"scope": ""
-							}
 						},
 						"selection":
 						[
 							[
-								1693,
-								1693
+								0,
+								0
 							]
 						],
 						"settings":
@@ -777,6 +749,86 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config/connections.js",
+					"settings":
+					{
+						"buffer_size": 5079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2663,
+								2663
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "api/policies/userNotCreated.js",
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "api/policies/userCreated.js",
+					"settings":
+					{
+						"buffer_size": 250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
